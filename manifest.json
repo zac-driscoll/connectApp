@@ -301,7 +301,7 @@
     },
     "connectGolem": {
       "Source": "github",
-      "Repository": "zac-driscoll/connectGolem"",
+      "Repository": null,
       "description": {
         "Package": "connectGolem",
         "Title": "An Amazing Shiny App",
@@ -1218,7 +1218,7 @@
   },
   "files": {
     ".Rprofile": {
-      "checksum": "56f1dbeb070034a7b51c4afe3b999235"
+      "checksum": "b187a42f219e96faf30883de202e8e2c"
     },
     "app.R": {
       "checksum": "4e13d78e4892d87b2b861827462d94cd"
